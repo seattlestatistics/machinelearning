@@ -1,4 +1,4 @@
 machinelearning
 ===============
 
-Assignment for Coursera Machine Learning course
+This repository contains the files machinelearning.html and machinelearning.Rmd.  
