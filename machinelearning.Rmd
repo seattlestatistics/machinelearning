@@ -92,7 +92,7 @@ On the basis of this model, Gini scores were calculated, to highlight the variab
 ```{r echo=FALSE}
 varImp(modelTrees)
 ```
-It can be seen that thirteen of the fifty independet variables have Gini scores greater than zero, with "pitch_forearm" being the highest.
+It can be seen that thirteen of the fifty independent variables have Gini scores greater than zero, with "pitch_forearm" being the highest.
 
 Using the rattle package, one can create a diagram to show the decisions that the tree model made, in selecting the most likely activity from the training data.
 ```{r echo=FALSE}
